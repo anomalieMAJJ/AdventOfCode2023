@@ -28,4 +28,4 @@
 - [ ] Jour 24
 - [ ] Jour 25
 
-**Start date :** December 31, 2023
+**Start date :** December xx, 2023
